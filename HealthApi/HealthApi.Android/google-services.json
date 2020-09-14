@@ -1,0 +1,284 @@
+{
+  "project_info": {
+    "project_number": "990531011557",
+    "firebase_url": "https://efacility-985.firebaseio.com",
+    "project_id": "efacility-985",
+    "storage_bucket": "efacility-985.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990531011557:android:a66b28032b219a59",
+        "android_client_info": {
+          "package_name": "adani.efacility.smartfacilityapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990531011557-ugnv1ipak2n6mlk3oupni18b6i0bgkl4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8QjD42mJddKGkRlDZYRl9xhGO94_Wj_w"
+        },
+        {
+          "current_key": "AIzaSyBXeD8uUNn21V5Dt3SNnakhElVJI0u2bOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990531011557-ugnv1ipak2n6mlk3oupni18b6i0bgkl4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "990531011557-2me2u9g24o3gj9qr1dsu72g21q1pf5ho.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.adani.efacilityapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990531011557:android:0c52622639f558b073650c",
+        "android_client_info": {
+          "package_name": "com.adani.efacilityapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990531011557-ugnv1ipak2n6mlk3oupni18b6i0bgkl4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8QjD42mJddKGkRlDZYRl9xhGO94_Wj_w"
+        },
+        {
+          "current_key": "AIzaSyBXeD8uUNn21V5Dt3SNnakhElVJI0u2bOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990531011557-ugnv1ipak2n6mlk3oupni18b6i0bgkl4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "990531011557-2me2u9g24o3gj9qr1dsu72g21q1pf5ho.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.adani.efacilityapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990531011557:android:e538520f94b6aa7473650c",
+        "android_client_info": {
+          "package_name": "com.godrej.efacilityapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990531011557-ugnv1ipak2n6mlk3oupni18b6i0bgkl4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8QjD42mJddKGkRlDZYRl9xhGO94_Wj_w"
+        },
+        {
+          "current_key": "AIzaSyBXeD8uUNn21V5Dt3SNnakhElVJI0u2bOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990531011557-ugnv1ipak2n6mlk3oupni18b6i0bgkl4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "990531011557-2me2u9g24o3gj9qr1dsu72g21q1pf5ho.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.adani.efacilityapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990531011557:android:e51daa40a89b22d773650c",
+        "android_client_info": {
+          "package_name": "com.sample.healthkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990531011557-ugnv1ipak2n6mlk3oupni18b6i0bgkl4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8QjD42mJddKGkRlDZYRl9xhGO94_Wj_w"
+        },
+        {
+          "current_key": "AIzaSyBXeD8uUNn21V5Dt3SNnakhElVJI0u2bOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990531011557-ugnv1ipak2n6mlk3oupni18b6i0bgkl4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "990531011557-2me2u9g24o3gj9qr1dsu72g21q1pf5ho.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.adani.efacilityapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990531011557:android:8a72176ee831e95b",
+        "android_client_info": {
+          "package_name": "in.efacility.smartfacilityapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990531011557-ugnv1ipak2n6mlk3oupni18b6i0bgkl4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8QjD42mJddKGkRlDZYRl9xhGO94_Wj_w"
+        },
+        {
+          "current_key": "AIzaSyBXeD8uUNn21V5Dt3SNnakhElVJI0u2bOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990531011557-ugnv1ipak2n6mlk3oupni18b6i0bgkl4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "990531011557-2me2u9g24o3gj9qr1dsu72g21q1pf5ho.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.adani.efacilityapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990531011557:android:fc389f81b73ef349",
+        "android_client_info": {
+          "package_name": "in.efacility.smartfacilityapp_2_0"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990531011557-ugnv1ipak2n6mlk3oupni18b6i0bgkl4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8QjD42mJddKGkRlDZYRl9xhGO94_Wj_w"
+        },
+        {
+          "current_key": "AIzaSyBXeD8uUNn21V5Dt3SNnakhElVJI0u2bOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990531011557-ugnv1ipak2n6mlk3oupni18b6i0bgkl4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "990531011557-2me2u9g24o3gj9qr1dsu72g21q1pf5ho.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.adani.efacilityapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990531011557:android:c9ad3507c434fe4673650c",
+        "android_client_info": {
+          "package_name": "in.efacility.smartfacilityapp_v.r"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990531011557-ugnv1ipak2n6mlk3oupni18b6i0bgkl4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8QjD42mJddKGkRlDZYRl9xhGO94_Wj_w"
+        },
+        {
+          "current_key": "AIzaSyBXeD8uUNn21V5Dt3SNnakhElVJI0u2bOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990531011557-ugnv1ipak2n6mlk3oupni18b6i0bgkl4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "990531011557-2me2u9g24o3gj9qr1dsu72g21q1pf5ho.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.adani.efacilityapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
